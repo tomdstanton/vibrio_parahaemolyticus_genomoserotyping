@@ -1,0 +1,17 @@
+name = "Vibrio_parahaemolyticus_O"
+keyword = "vpar_o"
+genbank = "VibrioPara_Kaptivedb_O.gbk"
+organism = "Vibrio parahaemolyticus"
+taxon = 670
+antigen = "Outer core lipopolysaccharide"
+pathway = "Wzx/Wzy-dependent"
+prefix = "K"
+version = "1.0.1"
+id_threshold = 82.5
+doi = [ "10.1099/mgen.0.001007",]
+owner = "aldertzomer"
+repo = "vibrio_parahaemolyticus_genomoserotyping"
+branch = "main"
+
+[contact]
+"Aldert Zomer" = "a.l.zomer@uu.nl"
