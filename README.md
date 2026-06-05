@@ -1,4 +1,10 @@
+<img align="right" src="https://github.com/klebgenomics/Kaptive/blob/master/docs/assets/logo.png?raw=true" alt="Kaptive" width="200">
+
 ## Development of Kaptive databases for Vibrio parahaemolyticus O- and K-antigen serotyping
+
+[![Streamlit App](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?logo=streamlit&logoColor=white)](https://kaptive-database-validator.streamlit.app/)
+[![Release Database](https://github.com/aldertzomer/vibrio_parahaemolyticus_genomoserotyping/actions/workflows/release.yml/badge.svg)](https://github.com/aldertzomer/vibrio_parahaemolyticus_genomoserotyping/actions/workflows/release.yml)
+[![DOI:10.1099/mgen.0.001007](https://zenodo.org/badge/DOI/10.1099/mgen.0.001007.svg)](https://doi.org/10.1099/mgen.0.001007)
 
 Linda van der Graaf – van Bloois<sup>1,2</sup>, Hongyou Chen<sup>3</sup>, Jaap A. Wagenaar<sup>1,2,4</sup> and Aldert L. Zomer<sup>1,2</sup>
 
